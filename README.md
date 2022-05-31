@@ -15,6 +15,7 @@
 - [DW Data](https://github.com/dw-data)
 - [IRT](https://github.com/IRT-Open-Source/)
 - [NDR](https://github.com/NorddeutscherRundfunk)
+- [pub.tech](https://github.com/public-value-tech) (ehemals BR SEP)
   - [Tagesschau](https://github.com/tagesschau)
 - [rbb|data](https://github.com/rbb-data)
 - [SWR](https://gitlab.com/openswr)
@@ -24,6 +25,7 @@
 ## APIs
 
 - [ARD.de Developer](https://developer.ard.de) - API service for ARD Core datasets such as audio (ARD Audiothek) and video (ARD Mediathek)
+- [ARD Audiothek](https://api-test.ardaudiothek.de) – BFF for ARD Audiothek clients
 - [SWR Radiohub](https://api.lab.swr.de/radiohub-docs/) - Access to live metadata for SWR radio
 
 ## Ressources
