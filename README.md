@@ -5,7 +5,6 @@
 - [Repositories](#Repositories)
 - [APIs](#APIs)
 - [Ressources](#Ressources)
-- [Livestreams](LIVE.md)
 
 ## Organizations
 
