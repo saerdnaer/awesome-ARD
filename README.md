@@ -11,10 +11,10 @@
 - [ARD-aktuell](https://github.com/ard-aktuell/)
 - [BR](https://github.com/bayerischer-rundfunk)
   - [BR Data](https://github.com/br-data)
+  - [pub.tech](https://github.com/public-value-tech) (ehemals BR SEP)
 - [DW Data](https://github.com/dw-data)
 - [IRT](https://github.com/IRT-Open-Source/)
 - [NDR](https://github.com/NorddeutscherRundfunk)
-- [pub.tech](https://github.com/public-value-tech) (ehemals BR SEP)
   - [Tagesschau](https://github.com/tagesschau)
 - [rbb|data](https://github.com/rbb-data)
 - [SWR](https://gitlab.com/openswr)
@@ -36,3 +36,4 @@
 ### Tagesschau
 - [Kodi](https://github.com/joerns/xbmc-plugin.video.tagesschau)
 - [Roku](https://github.com/henningSaul/tagesschau-on-roku)
+- https://tagesschau.api.bund.dev
